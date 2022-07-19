@@ -8,3 +8,8 @@
 	url = https://github.com/gasparl/neatstats
 	shallow = true
 	registered = true
+[submodule "POSSA"]
+	path = POSSA
+	url = https://github.com/gasparl/possa
+	shallow = true
+	registered = true

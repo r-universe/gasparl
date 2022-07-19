@@ -2,5 +2,9 @@
   {
     "package": "neatStats",
     "oncran": true
+  },
+  {
+    "package": "POSSA",
+    "oncran": true
   }
 ]
