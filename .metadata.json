@@ -1,10 +1,10 @@
 [
   {
-    "package": "neatStats",
+    "package": "POSSA",
     "oncran": true
   },
   {
-    "package": "POSSA",
+    "package": "neatStats",
     "oncran": true
   }
 ]
