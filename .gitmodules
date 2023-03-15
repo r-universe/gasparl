@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "POSSA"]
-	path = POSSA
-	url = https://github.com/gasparl/possa
-	shallow = true
-	registered = true
 [submodule "neatStats"]
 	path = neatStats
 	url = https://github.com/gasparl/neatstats
+	shallow = true
+	registered = true
+[submodule "POSSA"]
+	path = POSSA
+	url = https://github.com/gasparl/possa
 	shallow = true
 	registered = true
