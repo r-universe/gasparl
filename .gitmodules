@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "neatStats"]
-	path = neatStats
-	url = https://github.com/gasparl/neatstats
 [submodule "POSSA"]
 	path = POSSA
 	url = https://github.com/gasparl/possa
+[submodule "neatStats"]
+	path = neatStats
+	url = https://github.com/gasparl/neatstats
